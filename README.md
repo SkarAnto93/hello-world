@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello!
+
+I've seen a million faces and i've rocked them all.
